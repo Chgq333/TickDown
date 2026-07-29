@@ -33,7 +33,3 @@ TickDown is provided "as is" without warranties of any kind, to the extent permi
 ## Limitation of Liability
 
 To the extent permitted by law, J-Net-Securities is not responsible for damages resulting from the use or inability to use TickDown.
-
-## Contact
-
-J-Net-Securities
